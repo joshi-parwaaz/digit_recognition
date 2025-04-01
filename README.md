@@ -1,4 +1,3 @@
-```markdown
 # Handwritten Digit Recognition
 
 This project aims to recognize handwritten digits using machine learning algorithms. The model is trained on the MNIST dataset, and the primary features are extracted using **Histogram of Oriented Gradients (HOG)**. The project uses two classification algorithms: **k-Nearest Neighbors (k-NN)** and **Support Vector Machines (SVM)**.
@@ -140,6 +139,3 @@ The evaluation results (confusion matrices and accuracy reports) will be saved i
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
----
-Answer from Perplexity: pplx.ai/share
